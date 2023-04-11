@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["magasin"],{"540f":function(n,a,s){n.exports=s.p+"img/magasin_noel.aa58cf0f.jpg"},ddf0:function(n,a,s){"use strict";s.r(a);var e=s("7a23"),i=s("540f"),c=s.n(i);const t={class:"magasin"},o=Object(e["e"])("h1",null,"This is an magasin page",-1),d=Object(e["e"])("img",{src:c.a,width:"300"},null,-1),r=[o,d];function f(n,a){return Object(e["q"])(),Object(e["d"])("div",t,r)}var p=s("6b0d"),u=s.n(p);const g={},b=u()(g,[["render",f]]);a["default"]=b}}]);
+//# sourceMappingURL=magasin.ae450e1c.js.map
